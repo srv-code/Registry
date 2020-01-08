@@ -1,0 +1,2 @@
+b='javac -d out src/tester/StandardExitCodes.java src/tester/Main.java src/util/registry/CorruptRegistryDataException.java src/util/registry/Key.java src/util/registry/Registry.java'
+r='java -cp out tester.Main'
